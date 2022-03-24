@@ -1,4 +1,4 @@
-# sample instanse for supply chain porblem
+# A toy supply chain problem
 # data
 fixedCost = [120,150,135]
 unitCapCost = [40,50,65]
